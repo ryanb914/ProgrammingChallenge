@@ -1,0 +1,10 @@
+com\techempower\blog\dao\BlogDAO.class
+com\techempower\blog\BlogApplication.class
+com\techempower\blog\resources\BlogResource.class
+com\techempower\blog\BlogConfiguration.class
+com\techempower\blog\BlogAuthenticator.class
+com\techempower\blog\views\BlogView.class
+com\techempower\blog\dao\UserDAO.class
+com\techempower\blog\resources\ClientResource.class
+com\techempower\blog\representations\Blog.class
+com\techempower\blog\dao\mappers\BlogMapper.class

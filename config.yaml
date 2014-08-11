@@ -1,0 +1,5 @@
+database:
+   driverClass: com.mysql.jdbc.Driver
+   user: bloguser
+   password: blogpassword
+   url: jdbc:mysql://localhost/techempower_blog
